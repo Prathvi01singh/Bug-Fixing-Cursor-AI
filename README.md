@@ -1,4 +1,4 @@
-# Project 3: Bug Fixing (C++)
+# Project 3: Bug Fixing (Python)
 
 Two common bugs, how to spot them, and the corrected code with tests.
 
